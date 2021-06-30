@@ -6,77 +6,94 @@ let result = '<header><h1>YOU @TYPE </h1></header><div class="r_container"><div>
 let mark = 0;
 const questions = {
     Q1:{
-        q:'Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1',
-        answers:['what','why','who','is'],
-        ture_answer:2
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
 
     },
     Q2:{
-        q:'Q2Q2Q2Q2Q2Q2',
-        answers:['what','why','who','is'],
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
+
     },
     Q3:{
-        q:'Q3Q3Q3Q3Q3Q3Q3Q3Q3',
-        answers:['what','why','who','is'],
-        ture_answer:3
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
     },
     Q4:{
-        q:'Q4Q4Q4Q4Q4Q4Q4',
-        answers:['what','why','who','is'],
-        ture_answer:4
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
     },
     Q5:{
-        q:'Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5',
-        answers:['what','why','who','is'],
-        ture_answer:3
-    },
-    Q6:{
-        q:'Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6',
-        answers:['what','why','who','is'],
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
+
     },
     Q6:{
-        q:'Q6Q6Q6Q6Q6Q6Q6Q6',
-        answers:['what','why','who','is'],
-        ture_answer:4
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
     },
     Q7:{
-        q:'Q7Q7Q7Q7Q7Q7Q7',
-        answers:['what','why','who','is'],
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
+
     },
     Q8:{
-        q:'Q8Q8Q8Q8Q8Q8Q8',
-        answers:['what','why','who','is'],
-        ture_answer:2
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
     },
     Q9:{
-        q:'Q9Q9Q9Q9Q9Q9Q9',
-        answers:['what','why','who','is'],
-        ture_answer:3
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
     },
     Q10:{
-        q:'Q10Q10Q10Q10',
-        answers:['what','why','who','is'],
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
+
     },
     Q11:{
-        q:'Q11Q11Q11Q11',
-        answers :['what','why','who','is'],
-        ture_answer:3
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
     },
     Q12:{
-        q:'Q12Q12Q12Q12Q12',
-        answers:['what','why','who','is'],
-        ture_answer:4
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
     },
     Q13:{
-        q:'Q13Q13Q13',
-        answers:['what','why','who','is'],
-        ture_answer:2
-    }
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
 
+    },
+    Q14:{
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+
+    },
+    Q15:{
+        q:'Can I park here?',
+        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        ture_answer:1
+    },
 }
 let q_array = Object.keys(questions);
 let counter = 1
