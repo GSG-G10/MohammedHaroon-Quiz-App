@@ -8,7 +8,7 @@ The project is a set of choose questions to test you in a specific skill Then it
 - [x] Open the app site .
 - [x] Enter your name for the game.
 - [x]  Start the game by click on the button start game.
-- [x] and so one .....😜.
+- [x] Answer the questions and test your skills
 ## project Pages :
 - Start Page .
 - Question page .
