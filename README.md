@@ -32,7 +32,10 @@ We have divided our website into many Pages These sections as follow:
 - [x] Enter your name for the game.
 - [x]  Start the game by click on the button start game.
 - [x] Answer the questions and test your skills
-figma link 
+
+
+
+## figma link 
 ```
 https://www.figma.com/file/IOzkswLYvNX8zvqTu15kwK/Untitled?node-id=4%3A43
 ```
