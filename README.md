@@ -6,14 +6,10 @@
 #### WebsiteTitle ####
 [WEBSITE](https://gsg-g10.github.io/MohammedHaroon-Quiz-App/index.html)
 
-By: 
-
 <br/>
-
 
 #### What ####
  My site is a simple site that allow to test you in a specific skill Then it gives you the result of your solutions.
-
  
  
 #### How ####
