@@ -6,92 +6,92 @@ let result = '<header><h1>YOU @TYPE </h1></header><div class="r_container"><div>
 let mark = 0;
 const questions = {
     Q1:{
-        q:'Can I park here?',
+        q:'Can I park here? q1',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q2:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'Is the weather like this in _______ country too?',
+        answers:['you','your.',`yourself.`,'0'],
         ture_answer:1
 
     },
     Q3:{
-        q:'Can I park here?',
+        q:'Can I park here? Q3',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q4:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'_________ of them understands English?',
+        answers:['anybody','somebody',`none`,'0'],
         ture_answer:1
 
     },
     Q5:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'Does the police think the thief to be _______?',
+        answers:['he','thay.',`your.`,'him'],
         ture_answer:1
 
     },
     Q6:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'The school needs ________ students to wear proper uniform.',
+        answers:['its','his',`here`,'0'],
         ture_answer:1
 
     },
     Q7:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'Please help ________ to some food.',
+        answers:['you','your.',`yourself.`,'0'],
         ture_answer:1
 
     },
     Q8:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'We decided to set out ______ it was late',
+        answers:['and','though',`than`,'0'],
         ture_answer:1
 
     },
     Q9:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'She is older _____ she looks',
+        answers:['than','until',`when`,'0'],
         ture_answer:1
 
     },
     Q10:{
-        q:'Can I park here?',
+        q:'Can I park here? q10',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q11:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'I will make a cake _______ I have time.',
+        answers:['by','as soon as',`before.`,'0'],
         ture_answer:1
 
     },
     Q12:{
-        q:'Can I park here?',
+        q:'Can I park here? q12',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q13:{
-        q:'Can I park here?',
+        q:'Can I park here? q13',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q14:{
-        q:'Can I park here?',
+        q:'Can I park here? q14',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q15:{
-        q:'Can I park here?',
-        answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
+        q:'Take the bag with you ______ you leave.',
+        answers:['whan','by',`as soon as`,'before'],
         ture_answer:1
     },
 }
