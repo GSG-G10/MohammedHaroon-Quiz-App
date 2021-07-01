@@ -6,7 +6,7 @@ let result = '<header><h1>YOU @TYPE </h1></header><div class="r_container"><div>
 let mark = 0;
 const questions = {
     Q1:{
-        q:'Can I park here?',
+        q:'Can I park here? q1',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
@@ -60,7 +60,7 @@ const questions = {
 
     },
     Q10:{
-        q:'Can I park here?',
+        q:'Can I park here? q10',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
@@ -72,19 +72,19 @@ const questions = {
 
     },
     Q12:{
-        q:'Can I park here?',
+        q:'Can I park here? q12',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q13:{
-        q:'Can I park here?',
+        q:'Can I park here? q13',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
     },
     Q14:{
-        q:'Can I park here?',
+        q:'Can I park here? q14',
         answers:['Only for half an hour','Sorry, I did that.',`It's the same place.`,'0'],
         ture_answer:1
 
